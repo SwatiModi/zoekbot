@@ -27,6 +27,7 @@ Majorly has three parts:
 ### Python
 * export environment from terminal : `export DISCORD_BOT_ENV=production`
 * Default environment : `development`
+* export other sercrets from terminal (`DISCORD_TOKEN`, `GOOGLE_SEARCH_API_KEY`, `SEARCH_ENGINE_ID`,`DB_USERNAME`,`DB_PASSWORD`,`DB_NAME`,`COLLECTION_NAME`)
 * Run from filepath :`python -m discord_bot.bot`
 
 ##  TechStack Used
