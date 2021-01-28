@@ -15,7 +15,7 @@ Majorly has three parts:
 * Requirements : ``Python3.8+``
 * Install other requirements : `pip install -r requirements.txt`
 
-***Currently it is hosted on heroku so you can directly jump to*** [Bot Name and Invitation URL](#bot-name-and-invitation-url)
+~~***Currently it is hosted on heroku so you can directly jump to*** [Bot Name and Invitation URL](#bot-name-and-invitation-url)~~
 
 ### Shell
 * `run.sh` : Executes user command and run parking system algorithm
